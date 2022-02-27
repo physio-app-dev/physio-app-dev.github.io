@@ -1600,6 +1600,321 @@
           }
         ]
       }
+    ],
+    "practitionerMilestones": [
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee. \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat urna ut ante pulvinar fermentum. Donec a rutrum erat, nec fermentum neque. Proin at faucibus sem. Quisque eu ipsum ultricies, mattis ipsum eget, vestibulum eros. Phasellus fringilla tellus non velit mattis, condimentum imperdiet arcu interdum. Nunc nibh ante, venenatis non mollis a, ullamcorper eu mauris. Pellentesque mollis lobortis lorem, pellentesque hendrerit justo feugiat quis. Vestibulum ac tincidunt risus. Quisque sem odio, tristique nec congue ac, varius et tellus. In id lobortis mauris, at pellentesque justo. Donec tristique vel justo at molestie.\nSed sodales rutrum lorem, ut consectetur augue mattis ut. Proin convallis massa neque, non egestas neque luctus in. Nullam et dapibus tellus. Ut vitae elit volutpat, condimentum mauris vitae, euismod tortor. Morbi imperdiet mi sed velit porta maximus. Sed sed elementum dolor, sit amet sodales tellus. Nulla sagittis leo in urna vehicula, eget faucibus risus placerat. Donec cursus rutrum efficitur. Duis sit amet velit felis. Donec dapibus eu arcu eu consequat. Nullam ullamcorper elit et ex pretium, a molestie leo aliquet. Vivamus mattis congue aliquam. Vestibulum hendrerit augue vel hendrerit blandit. Maecenas ut elementum nulla, id feugiat leo. Quisque blandit rutrum libero, quis accumsan tellus molestie at.\nNam elementum elit neque, sed pretium tellus mattis non. Nunc vel erat arcu. Quisque rhoncus, libero in hendrerit bibendum, lectus mi varius augue, at ultricies sem ante eu leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse quis quam ultrices, ullamcorper sem vel, tristique dolor. Mauris elementum, turpis quis posuere volutpat, risus quam vestibulum nibh, at tempor orci nunc vitae tortor. Aliquam sed faucibus turpis. Praesent nibh eros, venenatis eu varius ut, auctor imperdiet magna. Morbi fermentum faucibus dolor, nec dictum lorem condimentum quis. Curabitur ac tristique nisl. Phasellus ultricies lectus quis sem convallis blandit. Aenean et auctor magna, sit amet feugiat tortor. Curabitur viverra tempus malesuada. Aliquam convallis ultricies turpis eu consectetur. Duis vitae imperdiet ligula, sit amet fringilla ante. Nunc imperdiet elit eu dui mattis sodales.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Patella Mobility",
+        "serious": "yes",
+        "milestoneDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "milestoneTags": "Patella, Mobility, Movement",
+        "milestoneImageList": "https://physio-app-dev.github.io/stroke_test.png, \nhttps://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "no",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Significantly Restricted"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Restricted"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Free"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "milestoneName": "Both Leg Test",
+        "serious": "yes",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "both",
+            "question": "Stroke Test",
+            "hint": "need to pass for both legs",
+            "green_flag_left": "==0",
+            "green_flag_right": "==1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Difference Calulation",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "diff",
+            "question": "Difference Test",
+            "hint": "difference calculation",
+            "green_flag": "==0"
+          }
+        ]
+      },
+      {
+        "milestoneName": "LSI Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "lsi",
+            "question": "LSI Calculation",
+            "hint": "measure leg width",
+            "green_flag": ">85"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      },
+      {
+        "milestoneName": "Stroke Test",
+        "serious": "no",
+        "metronomeBPM": "80",
+        "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.",
+        "milestoneTags": "Stroke, Knee, Test",
+        "milestoneImageList": "https://images.ctfassets.net/5615tdzw3m8i/7cELBrO8eRxL4896cOjbzG/04824a26b3314e8b18a099e4c9e4098a/02__1_.gif, https://physio-app-dev.github.io/stroke_test.png",
+        "milestoneInput": [
+          {
+            "isInput": "yes",
+            "question": "Stroke Test",
+            "hint": "measured in cm",
+            "green_flag": "==0",
+            "red_flag": ">1"
+          }
+        ]
+      }
     ]
   }
 }
