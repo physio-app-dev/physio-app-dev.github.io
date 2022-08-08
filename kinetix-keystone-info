@@ -1,0 +1,12 @@
+Filename: kinetix-keystone
+Password: Kin.2022.Physio
+
+
+-- Key --
+Alias: kinetix-physio
+Password: Kin.2022.Physio
+
+
+-- Certificate --
+First and Last Name: Kinetix
+Organization: Kinetix
