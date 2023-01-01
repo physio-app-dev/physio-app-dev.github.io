@@ -2049,18 +2049,84 @@
             ]
           },
           {
-            "milestoneName": "Stroke Test",
-            "serious": "no",
-            "milestoneDesc": "Purpose: To assess and quantify a knee joint effusion. \n\nThe examiner strokes upwards from the medial joint line towards the suprapatellar pouch. Thena downward stroke on the distal lateral thigh from the suprapatellar pouch towards the lateral joint line is performed; a wave of fluid is observed at the medial knee.\n\nAccording to a reliability study performed on this test, the kappa value was 0.75 0.75 and the percent agreement was 73%. Fifty-four of 75 pairs of tests had perfect agreement. Five had disagreement of two grades and there was no disagreements of greater than two grades",
-            "milestoneTags": "Stroke, Knee, Test",
-            "milestoneImageList": "https://raw.githubusercontent.com/physio-app-dev/physio-app-dev.github.io/main/stroke_test.gif, https://physio-app-dev.github.io/stroke_test.png, https://raw.githubusercontent.com/physio-app-dev/physio-app-dev.github.io/main/stroke_test.gif",
+            "milestoneName": "Active Straight Leg Raise",
+            "serious": "yes",
+            "milestoneDesc": "Purpose: To assess the strength of the Quad muscle. \n\nLie on your back. Activate your quadriceps muscle and fully straighten your knee.\nRaise your leg 45-60° off the bed followed by lowering your leg at a pace of three seconds up, three seconds down for a maximum of ten repetitions or until quadriceps lag (loss of knee extension) is noted.\n\nRecord number of successful repetitions without the knee bending. ",
+            "milestoneTags": "Knee, Strength Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/LoX3NS5.jpg",
             "milestoneInput": [
               {
                 "isInput": "yes",
-                "question": "Stroke Test",
-                "hint": "Goal: 0 - no wave produced",
-                "green_flag": "==0",
-                "red_flag": ">1"
+                "question": "Active Straight Leg Raise (ASLR)",
+                "hint": "Goal: greater than 10",
+                "green_flag": ">=10",
+                "red_flag": "<=5"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Hamstring Strength ",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess hamstring capacity and strength.\n\nWith hands on wall and elbows fully extended, actively flex the knee to 90° with a neutral pelvis, thighs vertical and knees together. \n\nThe goal is to achieve 90 degrees of knee flexion. Record pass/fail.\n",
+            "milestoneTags": "Knee, Hamstring Strength, ACL ",
+            "milestoneImageList": "https://i.imgur.com/T28CJVl.gif, https://i.imgur.com/cG4BMoa.jpg",
+            "milestoneInput": [
+              {
+                "isInput": "yes",
+                "question": "Standing Active Knee Flexion Test",
+                "hint": "Goal: > 90 degree flexion ",
+                "green_flag": "<=90",
+                "red_flag": ">=90"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Glut/Hamstring Strength ",
+            "serious": "no",
+            "metronomeBPM": 60,
+            "milestoneDesc": "Purpose: To assess double leg hamstring capacity and strength. \n\nLie supine on the ground with heels on a 30 cm box or bench, feet hip width apart,\nand knees flexed to 20°. Push down through the heels to lift their hips off the ground. Touch your hips to the ground without resting, then extend your hips to 0° while maintaining a neutral spine, up to the specified maximum for the phase. Set Metronome at 60 bpm. Perform at a rate of 2 seconds per bridge (1 beat up, 1 beat down). Record number of repetitions achieved.\n\n",
+            "milestoneTags": "Knee, Hamstring Strength, ACL",
+            "milestoneImageList": "https://i.imgur.com/WF4Rh2d.gif",
+            "milestoneInput": [
+              {
+                "isInput": "yes",
+                "question": "Double Leg Hamstring Bridge Test",
+                "hint": "Goal: 20 rep. 1 sec up, 1 sec down",
+                "green_flag": ">=20",
+                "red_flag": "<=19"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Squat Test ",
+            "serious": "no",
+            "metronomeBPM": 60,
+            "milestoneDesc": "Purpose: To assess the ability to symmetrically squat to 90° knee flexion.\n\nSits on a chair (or plinth) with knees flexed to 90° and heels ~10 cm from edge of chair. With hands folded across chest, the athlete squats up and down in a controlled manner for 10 repetitions. Set metronome at 60 bpm. Perform squats at a rate of 4 seconds per squat (2 beats up, 2 beats down). Record pass/fail for depth, symmetry and presence/absence of pain (0-2/10 is acceptable).",
+            "milestoneTags": "Knee, Squat Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/ydLS6xk.gif, https://i.imgur.com/AM6usGc.jpg, ",
+            "milestoneInput": [
+              {
+                "isInput": "yes",
+                "question": "Squat Test ",
+                "hint": "Goal: 10 controlled squats to 90 degrees",
+                "green_flag": ">=10",
+                "red_flag": "<=5"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Front Plank ",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess strength and endurance of the abdominals and scapular stabilizers.\n\nStart the test by holding a basic plank position supported by the forearms and feet. Keep your feet shoulder width apart. Keep your elbows below the shoulders with the forearms and fingers extended straight forward. Keep your neck in a neutral position so that the body remains straight from the head to the heels. \n\nStop the test if your experience pain, if your can no longer maintain a neutral lumbopelvic position or if the maximum 60s has elapsed. Record time",
+            "milestoneTags": "Knee, Core Strength Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/R1I0uC5.gif",
+            "milestoneInput": [
+              {
+                "isInput": "yes",
+                "question": "Front Plank Test",
+                "hint": "Goal: > 60 sec hold ",
+                "green_flag": ">=60",
+                "red_flag": "<=30"
               }
             ]
           },
@@ -2484,6 +2550,38 @@
         ],
         "phaseMilestones": [
           {
+            "milestoneName": "Front Plank ",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess strength and endurance of the abdominals and scapular stabilizers.\n\nStart the test by holding a basic plank position supported by the forearms and feet. Keep your feet shoulder width apart. Keep your elbows below the shoulders with the forearms and fingers extended straight forward. Keep your neck in a neutral position so that the body remains straight from the head to the heels. \n\nStop the test if your experience pain, if your can no longer maintain a neutral lumbopelvic position or if the maximum 60s has elapsed. Record time",
+            "milestoneTags": "Knee, Core Strength Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/R1I0uC5.gif",
+            "milestoneInput": [
+              {
+                "isInput": "Number input with one flag",
+                "question": "Front Plank Test",
+                "hint": "Goal: > 90 sec hold ",
+                "green_flag": ">=90",
+                "red_flag": "<=45"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Side Plank",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess strength and capacity of the abdominals and lateral stabilizers \n\nHold a basic side plank position with your elbow under your shoulder and legs extended. With the lower foot on the ground, keep both ankles in neutral (lateral edge of the upper foot is not resting on floor). Hold as long as possible until you can no longer maintain height or there is twisting through the trunk and hips. Allow 1-minute rest between sides. Compare to the other side.",
+            "milestoneTags": "Knee, Core strength, ACL",
+            "milestoneImageList": "https://i.imgur.com/uT1e5yV.gif",
+            "milestoneInput": [
+              {
+                "isInput": "Number input with one flag",
+                "question": "Side Plank Test ",
+                "hint": "Goal: > 30 sec",
+                "green_flag": ">=30",
+                "red_flag": "<=15"
+              }
+            ]
+          },
+          {
             "milestoneName": "Patellar Mobility",
             "serious": "no",
             "milestoneDesc": "Purpose: To assess the mobility of your knee cap (Patella)\n\nSit with you back supported and you knee fully straight. Assess the ability of your knee cap to slide side to side and up and down. \n\nRate the mobility at Free, Restricted or Significantly Restricted ",
@@ -2652,6 +2750,24 @@
               }
             ]
           }
+        ],
+        "phaseMilestones": [
+          {
+            "milestoneName": "Side Plank",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess strength and capacity of the abdominals and lateral stabilizers \n\nHold a basic side plank position with your elbow under your shoulder and legs extended. With the lower foot on the ground, keep both ankles in neutral (lateral edge of the upper foot is not resting on floor). Hold as long as possible until you can no longer maintain height or there is twisting through the trunk and hips. Allow 1-minute rest between sides. Compare to the other side.",
+            "milestoneTags": "Knee, Core strength, ACL",
+            "milestoneImageList": "https://i.imgur.com/uT1e5yV.gif",
+            "milestoneInput": [
+              {
+                "isInput": "yes",
+                "question": "Side Plank Test ",
+                "hint": "Goal: > 60 sec",
+                "green_flag": ">=60",
+                "red_flag": "<=30"
+              }
+            ]
+          }
         ]
       },
       {
@@ -2769,6 +2885,56 @@
               }
             ]
           }
+        ],
+        "phaseMilestones": [
+          {
+            "milestoneName": "Side Plank",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess strength and capacity of the abdominals and lateral stabilizers \n\nHold a basic side plank position with your elbow under your shoulder and legs extended. With the lower foot on the ground, keep both ankles in neutral (lateral edge of the upper foot is not resting on floor). Hold as long as possible until you can no longer maintain height or there is twisting through the trunk and hips. Allow 1-minute rest between sides. Compare to the other side.",
+            "milestoneTags": "Knee, Core strength, ACL",
+            "milestoneImageList": "https://i.imgur.com/uT1e5yV.gif",
+            "milestoneInput": [
+              {
+                "isInput": "yes",
+                "question": "Side Plank Test ",
+                "hint": "Goal: > 60 sec",
+                "green_flag": ">=60",
+                "red_flag": "<=45"
+              }
+            ]
+          },
+          {
+            "milestoneName": "T-Test",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess change of direction \n\nSet Up: Measure distances as per diagram with a 5 cm tape starting line at cone A. A laser start gate should be set at a height of 18 inches from the floor in line with the distal edge of the tape (where the distance measurement is taken from).\n\n1. Athlete places their front toe in line with the proximal edge of the start line tape.\n2. Athlete starts on their own time, sprinting forwards to touch the base of cone B with their right hand, then side shuffles 5 m left to touch base of cone C with their left hand, then side shuffles 10 m right to touch base of cone D with their right hand, shuffles back 5 m to touch the base of cone B with their left hand, then backpedals through the start gate at cone A.\n3. Repeat next trial with first side shuffle in the opposite direction.\n4. Trial is invalid if athlete fails to touch a cone properly or crosses their feet during the side shuffle.\n5. Two trials per direction, with one total repeat trial allowed for an invalid trial.\n6. A two-minute rest period is given between trials.\n7. Record the best time per direction to the nearest 1/100th of a second.\n\nGoal: 90% baseline Or <10 sec for males, < 11 sec for females",
+            "milestoneTags": "Knee, Agility Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/tnMOuV6.gif, https://i.imgur.com/KcFKrEK.png",
+            "milestoneInput": [
+              {
+                "isInput": "Number input with one flag",
+                "question": "T-Test",
+                "hint": "Goal: Males <10 sec, female <11 sec",
+                "green_flag": "<=11",
+                "red_flag": ">=15"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Fitness - Yo-Yo ",
+            "serious": "yes",
+            "milestoneDesc": "Purpose: To assess interval-based fitness.\n\nLevel 1: Males Age 16 and under and Females, Level 2: Males Age 17+\n\n1. Athlete begins at start line. When beep sounds they run to point 1 before the next beep sounds. Once the second beep sounds, the athlete runs back to the start line before a third beep sounds.\n2. If the athlete fails to make the third beep, they have failed that stage. Record this.\n3. If the athlete fails to make it to point 1 before the second beep, the athlete must still get to point\n• However, this will not count as a failed stage as long as they return to the start line before the third beep.\n4. Once the third beep has sounded and the athlete has successfully crossed the finish line, the athlete will spend time in the recovery zone for 10s. During this time period, the athlete is expected to go to point 2, turn around and head back to the start line, waiting for the next beep.\n5. The process will continue until the athlete fails two consecutive stages or three failed stages in total.\n6. Athlete receives a verbal warning when they have missed a stage.\n7. Record the stage that the athlete last successfully achieved.\n\nGoal: 90% of baseline or >level 18 for males, >level 17 for female",
+            "milestoneTags": "Knee, Fitness Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/QLOdlE2.gif, https://i.imgur.com/UEKG3xx.png",
+            "milestoneInput": [
+              {
+                "isInput": "Number input with one flag",
+                "question": "Yo-Yo Test",
+                "hint": "Goal: >level 18 for males, >level 17 for female",
+                "green_flag": ">=17",
+                "red_flag": "<=15"
+              }
+            ]
+          }
         ]
       },
       {
@@ -2883,6 +3049,56 @@
               {
                 "workoutID": "BigulPlan1232",
                 "workoutName": "Plank"
+              }
+            ]
+          }
+        ],
+        "phaseMilestones": [
+          {
+            "milestoneName": "T-Test",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess change of direction \n\nSet Up: Measure distances as per diagram with a 5 cm tape starting line at cone A. A laser start gate should be set at a height of 18 inches from the floor in line with the distal edge of the tape (where the distance measurement is taken from).\n\n1. Athlete places their front toe in line with the proximal edge of the start line tape.\n2. Athlete starts on their own time, sprinting forwards to touch the base of cone B with their right hand, then side shuffles 5 m left to touch base of cone C with their left hand, then side shuffles 10 m right to touch base of cone D with their right hand, shuffles back 5 m to touch the base of cone B with their left hand, then backpedals through the start gate at cone A.\n3. Repeat next trial with first side shuffle in the opposite direction.\n4. Trial is invalid if athlete fails to touch a cone properly or crosses their feet during the side shuffle.\n5. Two trials per direction, with one total repeat trial allowed for an invalid trial.\n6. A two-minute rest period is given between trials.\n7. Record the best time per direction to the nearest 1/100th of a second.\n\nGoal: 90% baseline Or <10 sec for males, < 11 sec for females",
+            "milestoneTags": "Knee, Agility Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/tnMOuV6.gif, https://i.imgur.com/KcFKrEK.png",
+            "milestoneInput": [
+              {
+                "isInput": "Number input with one flag",
+                "question": "T-Test",
+                "hint": "Goal: Males <10 sec, female <11 sec",
+                "green_flag": "<=11",
+                "red_flag": ">=15"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Fitness - Yo-Yo ",
+            "serious": "yes",
+            "milestoneDesc": "Purpose: To assess interval-based fitness.\n\nLevel 1: Males Age 16 and under and Females, Level 2: Males Age 17+\n\n1. Athlete begins at start line. When beep sounds they run to point 1 before the next beep sounds. Once the second beep sounds, the athlete runs back to the start line before a third beep sounds.\n2. If the athlete fails to make the third beep, they have failed that stage. Record this.\n3. If the athlete fails to make it to point 1 before the second beep, the athlete must still get to point\n• However, this will not count as a failed stage as long as they return to the start line before the third beep.\n4. Once the third beep has sounded and the athlete has successfully crossed the finish line, the athlete will spend time in the recovery zone for 10s. During this time period, the athlete is expected to go to point 2, turn around and head back to the start line, waiting for the next beep.\n5. The process will continue until the athlete fails two consecutive stages or three failed stages in total.\n6. Athlete receives a verbal warning when they have missed a stage.\n7. Record the stage that the athlete last successfully achieved.\n\nGoal: 90% of baseline or >level 18 for males, >level 17 for female",
+            "milestoneTags": "Knee, Fitness Test, ACL",
+            "milestoneImageList": "https://i.imgur.com/QLOdlE2.gif, https://i.imgur.com/UEKG3xx.png",
+            "milestoneInput": [
+              {
+                "isInput": "Number input with one flag",
+                "question": "Yo-Yo Test",
+                "hint": "Goal: >level 18 for males, >level 17 for female",
+                "green_flag": ">=17",
+                "red_flag": "<=15"
+              }
+            ]
+          },
+          {
+            "milestoneName": "Side Plank",
+            "serious": "no",
+            "milestoneDesc": "Purpose: To assess strength and capacity of the abdominals and lateral stabilizers \n\nHold a basic side plank position with your elbow under your shoulder and legs extended. With the lower foot on the ground, keep both ankles in neutral (lateral edge of the upper foot is not resting on floor). Hold as long as possible until you can no longer maintain height or there is twisting through the trunk and hips. Allow 1-minute rest between sides. Compare to the other side.",
+            "milestoneTags": "Knee, Core strength, ACL",
+            "milestoneImageList": "https://i.imgur.com/uT1e5yV.gif",
+            "milestoneInput": [
+              {
+                "isInput": "Number input with one flag",
+                "question": "Side Plank Test ",
+                "hint": "Goal: > 60 sec",
+                "green_flag": ">=60",
+                "red_flag": "<=45"
               }
             ]
           }
