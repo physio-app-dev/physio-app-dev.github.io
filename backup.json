@@ -1526,19 +1526,47 @@
                 "dayName": "Day 5",
                 "dayWorkouts": [
                   {
-                    "workoutID": "managew1d2hs",
-                    "workoutName": "Heel Slides"
+                    "workoutID": "managew1d5hse",
+                    "workoutName": "Heel Slides - extension"
                   },
                   {
-                    "workoutID": "managew1d2cp",
-                    "workoutName": "Calf Pumps"
+                    "workoutID": "managew1d5hobf",
+                    "workoutName": "Heels on ball - flexion"
                   },
                   {
-                    "workoutID": "managew1d2iqt",
-                    "workoutName": "Isometric Quad into Towel"
+                    "workoutID": "managew1d5iqt",
+                    "workoutName": "Isometric Quad into Towel - Hold 1"
                   },
                   {
-                    "workoutID": "managew1d2ice",
+                    "workoutID": "managew1d5cs",
+                    "workoutName": "Clamshell"
+                  },
+                  {
+                    "workoutID": "managew1d5pts",
+                    "workoutName": "Pelvic Tilt - Standing"
+                  },
+                  {
+                    "workoutID": "managew1d5tke",
+                    "workoutName": "TKE - Banded"
+                  },
+                  {
+                    "workoutID": "managew1d5dlcr",
+                    "workoutName": "DL Calf Raise"
+                  },
+                  {
+                    "workoutID": "managew1d5slb",
+                    "workoutName": "SL Balance"
+                  },
+                  {
+                    "workoutID": "managew1d5gaitrc",
+                    "workoutName": "Gait Retraining - Crutches"
+                  },
+                  {
+                    "workoutID": "managew1d5pke",
+                    "workoutName": "Passive Knee extension (heel elevated)"
+                  },
+                  {
+                    "workoutID": "managew1d5ice",
                     "workoutName": "Ice, Compression and Elevation"
                   }
                 ]
@@ -1547,19 +1575,47 @@
                 "dayName": "Day 6",
                 "dayWorkouts": [
                   {
-                    "workoutID": "managew1d2hs",
-                    "workoutName": "Heel Slides"
+                    "workoutID": "managew1d6hse",
+                    "workoutName": "Heel Slides - extension"
                   },
                   {
-                    "workoutID": "managew1d2cp",
-                    "workoutName": "Calf Pumps"
+                    "workoutID": "managew1d6hobf",
+                    "workoutName": "Heels on ball - flexion"
                   },
                   {
-                    "workoutID": "managew1d2iqt",
-                    "workoutName": "Isometric Quad into Towel"
+                    "workoutID": "managew1d6iqt",
+                    "workoutName": "Isometric Quad into Towel - Hold 1"
                   },
                   {
-                    "workoutID": "managew1d2ice",
+                    "workoutID": "managew1d6cs",
+                    "workoutName": "Clamshell"
+                  },
+                  {
+                    "workoutID": "managew1d6pts",
+                    "workoutName": "Pelvic Tilt - Standing"
+                  },
+                  {
+                    "workoutID": "managew1d6tke",
+                    "workoutName": "TKE - Banded"
+                  },
+                  {
+                    "workoutID": "managew1d6dlcr",
+                    "workoutName": "DL Calf Raise"
+                  },
+                  {
+                    "workoutID": "managew1d6slb",
+                    "workoutName": "SL Balance"
+                  },
+                  {
+                    "workoutID": "managew1d6gaitrc",
+                    "workoutName": "Gait Retraining - Crutches"
+                  },
+                  {
+                    "workoutID": "managew1d6pke",
+                    "workoutName": "Passive Knee extension (heel elevated)"
+                  },
+                  {
+                    "workoutID": "managew1d6ice",
                     "workoutName": "Ice, Compression and Elevation"
                   }
                 ]
@@ -1568,19 +1624,47 @@
                 "dayName": "Day 7",
                 "dayWorkouts": [
                   {
-                    "workoutID": "managew1d2hs",
-                    "workoutName": "Heel Slides"
+                    "workoutID": "managew1d7hse",
+                    "workoutName": "Heel Slides - extension"
                   },
                   {
-                    "workoutID": "managew1d2cp",
-                    "workoutName": "Calf Pumps"
+                    "workoutID": "managew1d7hobf",
+                    "workoutName": "Heels on ball - flexion"
                   },
                   {
-                    "workoutID": "managew1d2iqt",
-                    "workoutName": "Isometric Quad into Towel"
+                    "workoutID": "managew1d7iqt",
+                    "workoutName": "Isometric Quad into Towel - Hold 1"
                   },
                   {
-                    "workoutID": "managew1d2ice",
+                    "workoutID": "managew1d7cs",
+                    "workoutName": "Clamshell"
+                  },
+                  {
+                    "workoutID": "managew1d7pts",
+                    "workoutName": "Pelvic Tilt - Standing"
+                  },
+                  {
+                    "workoutID": "managew1d7tke",
+                    "workoutName": "TKE - Banded"
+                  },
+                  {
+                    "workoutID": "managew1d7dlcr",
+                    "workoutName": "DL Calf Raise"
+                  },
+                  {
+                    "workoutID": "managew1d7slb",
+                    "workoutName": "SL Balance"
+                  },
+                  {
+                    "workoutID": "managew1d7gaitrc",
+                    "workoutName": "Gait Retraining - Crutches"
+                  },
+                  {
+                    "workoutID": "managew1d7pke",
+                    "workoutName": "Passive Knee extension (heel elevated)"
+                  },
+                  {
+                    "workoutID": "managew1d7ice",
                     "workoutName": "Ice, Compression and Elevation"
                   }
                 ]
