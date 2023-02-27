@@ -1674,253 +1674,57 @@
           {
             "weekName": "Week 2",
             "weekWorkouts": [
+             
               {
                 "dayName": "Day 1",
                 "dayWorkouts": [
                   {
-                    "workoutID": "f3f3",
-                    "workoutName": "Full Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "adsf3f3",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
+                    "workoutID": "managew2d1hs",
+                    "workoutName": "Heel Slides"
                   },
                   {
-                    "workoutID": "BigulPlan1232",
-                    "workoutName": "Half Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "2342f3",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
+                    "workoutID": "managew2d1buw",
+                    "workoutName": "Ball Up Wall"
                   },
                   {
-                    "workoutID": "4f4f",
-                    "workoutName": "Regular Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "5tsdfg",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
+                    "workoutID": "managew2d1btke",
+                    "workoutName": "Branded TKE"
                   },
                   {
-                    "workoutID": "BigulPlan1232",
-                    "workoutName": "Mega Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                  }
-                ]
-              },
-              {
-                "dayName": "Day 2",
-                "dayWorkouts": [
-                  {
-                    "workoutID": "43t344",
-                    "workoutName": "Full Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
+                    "workoutID": "managew2d1ms",
+                    "workoutName": "Mini Squat"
                   },
                   {
-                    "workoutID": "3f32r23r",
-                    "workoutName": "Half Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
+                    "workoutID": "managew2d1cr",
+                    "workoutName": "Calf Raise"
                   },
                   {
-                    "workoutID": "3fwa3",
-                    "workoutName": "Regular Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
+                    "workoutID": "managew2d1hh",
+                    "workoutName": "Hip Hinge"
                   },
                   {
-                    "workoutID": "efeefae3",
-                    "workoutName": "Mega Plank",
-                    "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                    "restTimeSeconds": "15",
-                    "easyVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Easy Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "hardVariation": {
-                      "workoutID": "BigulPlan1232",
-                      "workoutName": "Hard Full Plank",
-                      "workoutSuggestedDuration": "3 sets: 12, 10, 12",
-                      "restTimeSeconds": "15",
-                      "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                      "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                      "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
-                    },
-                    "workoutFeaturedImage": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutImageList": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg, https://manofmany.com/wp-content/uploads/2020/02/How-to-do-a-proper-pushup.jpg, https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/08/SSBlog_PlankVariation_700x525.jpg",
-                    "workoutDescription": "The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time. The plank (also called a front hold, hover, or abdominal bridge) is an isometric core strength exercise that involves maintaining a position similar to a push-up for the maximum possible time.",
-                    "workoutYoutubeVideoLink": "https://www.youtube.com/watch?v=BQu26ABuVS0"
+                    "workoutID": "managew2d1spb",
+                    "workoutName": "Standing Pallof - Banded"
+                  },
+                  {
+                    "workoutID": "managew2d1wsqiso",
+                    "workoutName": "Wall Squat - Quarter ISO"
+                  },
+                  {
+                    "workoutID": "managew2d1gra",
+                    "workoutName": "Gait Retraiining - A Walk"
+                  },
+                  {
+                    "workoutID": "managew2d1dlehiso",
+                    "workoutName": "DL Elevated Hamstring ISO"
+                  },
+                  {
+                    "workoutID": "managew2d1slha",
+                    "workoutName": "Side lying Hip Abduction"
+                  },
+                  {
+                    "workoutID": "managew2d1ice",
+                    "workoutName": "Ice, Compression and Elevation"
                   }
                 ]
               }
