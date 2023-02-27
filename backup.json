@@ -1364,50 +1364,121 @@
         "dailyCheckInQuestions": [
           {
             "isInput": "yes",
-            "question": "What is your swelled knee circumference?",
-            "hint": "measured in cm",
-            "flag": ">2",
-            "green_flag": "==0"
+            "question": "Perform 1 single leg squat",
+            "hint": "rate your pain between 0 and 10",
+            "flag": ">=5",
+            "green_flag": "<=2"
           },
           {
             "isInput": "diff",
-            "question": "Difference Test",
-            "hint": "difference calculation",
-            "green_flag": "==0",
-            "red_flag": ">2"
+            "question": "Swelling (cm)",
+            "hint": "measure thigh circumference 1cm above knee cap",
+            "green_flag": "<=1.5",
+            "red_flag": ">1.5"
           },
           {
             "isInput": "no",
-            "question": "Do you feel tired today?",
+            "question": "Rate your sleep",
             "answerOptions": [
               {
                 "colorCode": "Red",
-                "answer": "Very fatigued"
+                "answer": "Terrible"
               },
               {
                 "colorCode": "Light Red",
-                "answer": "Worse from normal"
+                "answer": "Poor"
               },
               {
                 "colorCode": "Yellow",
-                "answer": "Normal"
+                "answer": "Ok"
               },
               {
                 "colorCode": "Light Green",
-                "answer": "Better from normal"
+                "answer": "Good"
               },
               {
                 "colorCode": "Green",
-                "answer": "No fatigued"
+                "answer": "Great"
               }
             ]
           },
           {
-            "isInput": "yes",
-            "question": "How many squats could you do today?",
-            "hint": "squat only count with full range of motion",
-            "flag": "<1",
-            "green_flag": ">2"
+            "isInput": "no",
+            "question": "Rate your energy",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Exhausted"
+              },
+              {
+                "colorCode": "Light Red",
+                "answer": "Tired"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Ok"
+              },
+              {
+                "colorCode": "Light Green",
+                "answer": "Good"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Let's Go!"
+              }
+            ]
+          },
+          {
+            "isInput": "no",
+            "question": "Rate your mood",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Irritable"
+              },
+              {
+                "colorCode": "Light Red",
+                "answer": "A little off"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Ok"
+              },
+              {
+                "colorCode": "Light Green",
+                "answer": "Good"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Great"
+              }
+            ]
+          },
+          {
+            "isInput": "no",
+            "question": "Rate your soreness",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Very sore"
+              },
+              {
+                "colorCode": "Light Red",
+                "answer": "Somewhat sore"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Ok"
+              },
+              {
+                "colorCode": "Light Green",
+                "answer": "Just a bit"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Not at all"
+              }
+            ]
           }
         ],
         "workoutWeeks": [
@@ -4335,6 +4406,126 @@
               {
                 "workoutID": "BigulPlan1232",
                 "workoutName": "Plank"
+              }
+            ]
+          }
+        ],
+        "dailyCheckInQuestions": [
+          {
+            "isInput": "yes",
+            "question": "Perform 1 single leg squat",
+            "hint": "rate your pain between 0 and 10",
+            "flag": ">=5",
+            "green_flag": "<=2"
+          },
+          {
+            "isInput": "diff",
+            "question": "Swelling (cm)",
+            "hint": "measure thigh circumference 1cm above knee cap",
+            "green_flag": "<=1.5",
+            "red_flag": ">1.5"
+          },
+          {
+            "isInput": "no",
+            "question": "Rate your sleep",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Terrible"
+              },
+              {
+                "colorCode": "Light Red",
+                "answer": "Poor"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Ok"
+              },
+              {
+                "colorCode": "Light Green",
+                "answer": "Good"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Great"
+              }
+            ]
+          },
+          {
+            "isInput": "no",
+            "question": "Rate your energy",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Exhausted"
+              },
+              {
+                "colorCode": "Light Red",
+                "answer": "Tired"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Ok"
+              },
+              {
+                "colorCode": "Light Green",
+                "answer": "Good"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Let's Go!"
+              }
+            ]
+          },
+          {
+            "isInput": "no",
+            "question": "Rate your mood",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Irritable"
+              },
+              {
+                "colorCode": "Light Red",
+                "answer": "A little off"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Ok"
+              },
+              {
+                "colorCode": "Light Green",
+                "answer": "Good"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Great"
+              }
+            ]
+          },
+          {
+            "isInput": "no",
+            "question": "Rate your soreness",
+            "answerOptions": [
+              {
+                "colorCode": "Red",
+                "answer": "Very sore"
+              },
+              {
+                "colorCode": "Light Red",
+                "answer": "Somewhat sore"
+              },
+              {
+                "colorCode": "Yellow",
+                "answer": "Ok"
+              },
+              {
+                "colorCode": "Light Green",
+                "answer": "Just a bit"
+              },
+              {
+                "colorCode": "Green",
+                "answer": "Not at all"
               }
             ]
           }
